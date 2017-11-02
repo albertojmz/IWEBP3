@@ -1,0 +1,9 @@
+
+Identificador de la Cuenta g737:d5e8921d
+
+Daniel Suárez Souto
+Alberto Jimenez Aliste
+
+Mejoras:
+1) Hemos añadido un TabBar en la vista en la que el usuario introduce las fechas de cuándo ha nacido y cuándo se ha enamorado para realizar las funciones de “cancel”(volver a la vista principal sin guardar las fechas seleccionadas) y “done”(volver a la vista principal guardando las fechas seleccionadas)
+2) Hemos añadido un NavBar para poder cambiar entre las vistas de Información e Inicio.
